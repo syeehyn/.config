@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+    "ms-python.python",
+    "njpwerner.autodocstring",
+    "stkb.rewrap",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "emeraldwalk.runonsave",
+    "octref.vetur",
+    "vuhrmeister.vscode-meteor"
+]
+}
